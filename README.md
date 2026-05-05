@@ -405,7 +405,7 @@ pnpm add nodemon -D
 
 ---
 
-##  16. Bonus (Thiếu trong tài liệu – nên thêm 👍)
+##  16. Bonus
 
 ### 🔹 File `.env`
 
